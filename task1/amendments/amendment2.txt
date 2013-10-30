@@ -1,0 +1,7 @@
+additional features:
+* the user should be able to record *a* split / lap time and see the duration
+  split interval WITHOUT changing the normal measurement (between the start
+  and stop).
+
+
+Once the above is implemented how would you support multiple split times?

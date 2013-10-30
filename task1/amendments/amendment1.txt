@@ -1,0 +1,6 @@
+An error should occur if:
+* the user attempts to start the stopwatch while an existing measurement is being taken 
+* the user attempts to check the duration without a start and stop time being recorded
+
+Additional features:
+* user should be able to reset the stopwatch 
